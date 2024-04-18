@@ -1,5 +1,6 @@
-Ứng dụng Tin tức với Kotlin
-Đây là một ứng dụng đơn giản viết bằng Kotlin để hiển thị tin tức hàng ngày từ API Vietnam Top News API của newsdata.io. Ứng dụng này cũng hỗ trợ chức năng đọc tin tức bằng cách sử dụng Text-to-Speech.
+Ứng dụng Tin tức với Kotlin.
+Đây là một ứng dụng đơn giản viết bằng Kotlin để hiển thị tin tức hàng ngày từ API Vietnam Top News API của newsdata.io.
+Ứng dụng này cũng hỗ trợ chức năng đọc tin tức bằng cách sử dụng Text-to-Speech.
 
 Cài đặt
 1. Clone Repository: 
