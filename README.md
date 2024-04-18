@@ -5,7 +5,7 @@
 Cài đặt
 1. Clone Repository: 
 2. Import vào Android StudioMở Android Studio, chọn File > New > Import Project và chọn thư mục đã clone.
-3. Thêm API KeyĐăng ký và nhận API Key từ Vietnam Top News API. Sau đó thêm API Key vào tệp local.properties của dự án: https://newsdata.io/news-sources/vietnam-top-news-api
+3. Thêm API KeyĐăng ký và nhận API Key từ Vietnam Top News API. Sau đó thêm API Key vào tệp HeadlinesFragment.kt của dự án: https://newsdata.io/news-sources/vietnam-top-news-api
 news_api_key=YOUR_API_KEY_HERE
 Công nghệ sử dụng
 Kotlin - Ngôn ngữ lập trình chính
